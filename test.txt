@@ -1,1 +1,1 @@
-city bangalore
+city : bangalore
